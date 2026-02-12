@@ -18,7 +18,7 @@
         - Ikoma and Bishop Ikoma
             - Significantly worse combat stats, but upgraded version acts like clergy and medic, and can attack on B2 (like a spy). Requires meditation to upgrade.
         - Zheng and Cardinal Zheng
-            - Terrible combat stats for a noble, but upgraded version acts like clergy, medic, and relic, and can attack on B2 (like a spy) and is immune to plague. Unsure how giving him relic status will work in game.
+            - Terrible combat stats for a noble, but upgraded version acts like clergy, and medic, and can attack on B2 (like a spy) and is immune to plague.
     - The Hazat 
         - Given their militartist Nature, all Hazat have the Dueling Ability
         - Lucinda and Blademaster Lucinda
@@ -101,3 +101,9 @@
         - Carries 1 Cargo
 #### MISC
 - Changed Symbiot Arcer from wheel to tread
+- Made wheel type move Cost all move pts everywhere except road.
+- Created a Mod specific varient of the Darkages Map
+    - This is for playtesting purposes, as such each house is given:
+        - Their house specific nobles
+        - 3 Extra Engineers on their Shield Generator
+        - 1 Destroyer Above Byzantium
