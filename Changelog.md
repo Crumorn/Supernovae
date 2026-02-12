@@ -6,19 +6,19 @@
  - Made converted move type to foot (this allows medics with move type foot to heal field guns)
 
 #### Nobles
-  - Removed dueling from all nobles unless otherwise specified
-  - Added House Specific Nobles. Each house gains the 3 nobles shown during portrait selection plus 2 other nobles with random names. It was difficult quickly finding anything lore accurate for the nobles, so the following is improvised. A note should be made to come back later and update the house specific nobles to be lore friendly.
+  - Removed dueling from all house specific nobles unless otherwise specified
+  - Added House Specific Nobles. Each house gains the 3 nobles shown during portrait selection plus 2 other nobles with random names. It was difficult quickly finding anything lore accurate for the nobles, so the following is improvised. A note should be made to come back later and update the house specific nobles to be lore friendly. Satistics and roles are equally improvised, and need heavilly need playtesting.
     - Li Halan
         - Flavius and Bladmaster Flavius
             - Behaves Like Vanilla Noble, except does not have dueling before upgrade.
         - Celestra and Theurgist Celestra
             - Has Weaker physical stats but powerful psionics. Requires Theurgy to upgrade. Theurgist cersion counts as Clergy Member. Gains dueling on upgrade.
         - Chi Kao and Blademaster Chi Kao
-            - Has slightly weaker physcial stats that are supllmented by decent psionics. Requires both Blademaster and Theurgy Tech. Gains Dueling on Upgrade.
+            - Has slightly weaker physcial stats that are suplemented by decent psionics. Requires both Blademaster and Theurgy Tech. Gains Dueling on Upgrade.
         - Ikoma and Bishop Ikoma
             - Significantly worse combat stats, but upgraded version acts like clergy and medic, and can attack on B2 (like a spy). Requires meditation to upgrade.
         - Zheng and Cardinal Zheng
-            - Terrible combat stats for a noble, but upgraded version acts like clergy, medic, and relic, and can attack on B2 (like a spy) and is immune to plague. Unsure how giving him relic status will work in game.
+            - Terrible combat stats for a noble, but upgraded version acts like clergy, and medic, and can attack on B2 (like a spy) and is immune to plague.
     - The Hazat 
         - Given their militartist Nature, all Hazat have the Dueling Ability
         - Lucinda and Blademaster Lucinda
@@ -62,3 +62,48 @@
         - Yusara and Patron Yusara. 
             - I found that Yusara apparently is the Wife of Hakinm and is known in the lore for being a prolific patron of the arts. Base Yusara will have a credit upkeep of 100 per turn to represent this spending.
             - Patron Yusara has gotten good at the game, and while slacking off on her Blademaster training managed to open a profitible art Studio. She has slightly worse Combat stats compared to Vanilla Blademaster, but has a -500 Credit upkeep(here's to hoping that doesn't crash the game somehow).  
+        - Saladin and Merchant Saladan
+            - Saladin has the base Noble combat stats for with a minor progression as he is upgraded. He starts with a -50 cred upkeep and can be upgraded into three tiers of Merchant:
+                - Merchant Saladin. This increases his spot and agility by 1, his psy defence by 25, and gives him a -1000 Cred upkeep. Requires Psychosocial Engineering
+                - Expert Merchant Saladin. This increases his spot and agility by 1, and gives him a -2000 Cred upkeep. Requries Meditation and Alien Psychology.
+                - Master Merchant Saladin. This increases his spot and agility by 1, his psy defence by 15, his direct by 3/40, and gives him a -5000 Cred upkeep. Requries Meditation and Psychosonic Manipulation
+        - Hakim and Blademaster Hakim
+            - Same as vanilla except has a -10 cred upkeep.
+        - Theafana and Battlepriest Theafana
+            - Exists in lore as a battle priest who fought symbiot on Stigmata.
+            - Has same stats as regular vanilla nobles, except counts as clergy and has slightly improved psy attack and defence in exchange for slightly nerffed close attack strength.
+        - Aaliyah and logistician Aliyah
+            - Regular Aliyah has same stats has base noble.
+            - Logistician Aaliyah has cargo 2 and 10 move speed. Due to units who have cargo slots being incompatible with being cargo themselves, we will represent her as mounting a half-track, and she can be disbanded to be moved. She can be upgraded at a factory and requires Energy Physics.
+#### Trains
+- All trains can't be cargo.
+- Engines
+    - Steam Locomotive and Armored Varient
+        - Can move 9pts only on roads. Can tow. Requires Energy Physics for regular Varient and Ceramsteel for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+    - Diesel Electric and Armored Varient
+        - Can move 11pt only on roads. Can tow. Requries Composite Armor for regular Varient, and Ceramsteel for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+    - Mag Lev and Armored Varient
+        - Can move 13pt only on roads. Can tow. Requries Hovertech for regular Varient, and Ceramsteel and Hover Tank for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+- Cars
+    - Passenger Car
+        - Cheap to build, carries 2 cargo, needs Energy Physics
+    - Bulk Freight Car
+        - Slightly more expensive to build, carries 4 cargo, needs Composite Armor
+    - Armored Car
+        - 3 Varients
+            - Artillery
+            - ATG
+            - AA
+        - Has similar stats to the self propelled varients.
+        - Carries 1 Cargo
+#### MISC
+- Changed Symbiot Arcer from wheel to tread
+- Made wheel type move Cost all move pts everywhere except road.
+- Created a Mod specific varient of the Darkages Map
+    - This is for playtesting purposes, as such each house is given:
+        - Their house specific nobles
+        - 3 Extra Engineers on their Shield Generator
+        - 1 Destroyer Above Byzantium
