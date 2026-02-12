@@ -76,4 +76,28 @@
             - Regular Aliyah has same stats has base noble.
             - Logistician Aaliyah has cargo 2 and 10 move speed. Due to units who have cargo slots being incompatible with being cargo themselves, we will represent her as mounting a half-track, and she can be disbanded to be moved. She can be upgraded at a factory and requires Energy Physics.
 #### Trains
-- 
+- All trains can't be cargo.
+- Engines
+    - Steam Locomotive and Armored Varient
+        - Can move 9pts only on roads. Can tow. Requires Energy Physics for regular Varient and Ceramsteel for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+    - Diesel Electric and Armored Varient
+        - Can move 11pt only on roads. Can tow. Requries Composite Armor for regular Varient, and Ceramsteel for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+    - Mag Lev and Armored Varient
+        - Can move 13pt only on roads. Can tow. Requries Hovertech for regular Varient, and Ceramsteel and Hover Tank for Armored Varient.
+        - Does participate in combat, but only armored varient has combat stats.
+- Cars
+    - Passenger Car
+        - Cheap to build, carries 2 cargo, needs Energy Physics
+    - Bulk Freight Car
+        - Slightly more expensive to build, carries 4 cargo, needs Composite Armor
+    - Armored Car
+        - 3 Varients
+            - Artillery
+            - ATG
+            - AA
+        - Has similar stats to the self propelled varients.
+        - Carries 1 Cargo
+#### MISC
+- Changed Symbiot Arcer from wheel to tread
