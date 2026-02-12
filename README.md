@@ -10,3 +10,4 @@ With the 2025 Enhanced edition of *Emperor of the Fading Suns*, we now have a pl
 - [ ] Create Roadmap
 - [ ] Create Dev Journal
 - [ ] Create Art Templates
+- [ ] Create a Python Script to make editing Unit and Tech Files nice.
