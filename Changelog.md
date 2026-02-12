@@ -55,3 +55,10 @@
             - Admiral Cedrick can by built into a Frigate, Destroyer, Cruiser, Dreadnought, or Carrier provided the appropriate tech is available. Each of these ships are meant to act like better variants or flagships that Cedrick commands.
         - Saphira and Tank Commander Saphira
             - Base Saphira is underpowered for a noble with a large reduction to their combat stats across the board. She can be upgraded into Tank commander Saphira given assault tanks have been researched. Tank Commander Saphira  has stats closer to a baseline Noble, acts like a medic, and can be upgraded at a factory into either an Improved Assault Tank or a Improved Hover Tank. Both tank varients act like Medics to represent Saphira's engineering skills.
+        - Benedicta and Theurgist Benedicta. I couldn't really think of anything interesting for This last one, so I just made them a powerful psychic. 
+            - Base benedicta has same values as a base Noble
+            - Theurgist Benedicta has high psy attack and counts as clergy and a medic.
+    - House al-Malik
+        - Yusara and Patron Yusara. 
+            - I found that Yusara apparently is the Wife of Hakinm and is known in the lore for being a prolific patron of the arts. Base Yusara will have a credit upkeep of 100 per turn to represent this spending.
+            - Patron Yusara has gotten good at the game, and while slacking off on her Blademaster training managed to open a profitible art Studio. She has slightly worse Combat stats compared to Vanilla Blademaster, but has a -500 Credit upkeep(here's to hoping that doesn't crash the game somehow).  
