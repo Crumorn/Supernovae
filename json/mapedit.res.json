@@ -687,6 +687,18 @@
                     "flags": 0,
                     "winId": 3044,
                     "text": "Symbiot Harvester"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3104,
+                    "text": "Sea Aliens"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3105,
+                    "text": "Ground Aliens"
                 }
             ]
         },
@@ -1000,11 +1012,53 @@
                     "winId": 3087,
                     "text": "            Artillery"
                 },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3097,
+                    "text": "Steam Locomotive"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3098,
+                    "text": "Diesel Electric"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3099,
+                    "text": "Mag Lev Engine"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3100,
+                    "text": "Passenger"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3101,
+                    "text": "Bulk Freight"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3102,
+                    "text": "Armored Cars"
+                },
                 {
                     "hotkey": 0,
                     "flags": 0,
                     "winId": 3088,
                     "text": "           Planet Bmb"
+                },
+                {
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3108,
+                    "text": "           Planet ICBM"
                 }
             ]
         },
@@ -1138,50 +1192,14 @@
 				{
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3097,
-                    "text": "Steam Locomotive"
+                    "winId": 3106,
+                    "text": "Hurricane"
                 },
 				{
                     "hotkey": 0,
                     "flags": 0,
-                    "winId": 3098,
-                    "text": "Diesel Electric"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3099,
-                    "text": "Mag Lev Engine"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3100,
-                    "text": "Passenger"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3101,
-                    "text": "Bulk Freight"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3102,
-                    "text": "Armored Cars"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3104,
-                    "text": "MISC Aliens"
-                },
-				{
-                    "hotkey": 0,
-                    "flags": 0,
-                    "winId": 3105,
-                    "text": "Bad Weather"
+                    "winId": 3107,
+                    "text": "Ground Weather"
                 }
             ]
         }
