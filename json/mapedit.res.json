@@ -1170,6 +1170,18 @@
                     "flags": 0,
                     "winId": 3102,
                     "text": "Armored Cars"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3104,
+                    "text": "MISC Aliens"
+                },
+				{
+                    "hotkey": 0,
+                    "flags": 0,
+                    "winId": 3105,
+                    "text": "Bad Weather"
                 }
             ]
         }
