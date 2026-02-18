@@ -33,6 +33,8 @@
 ## Timers
  - Speed up map scroll speed.
 
+# Planets
+ -Converted Byzantium II into a desert world
 
 # Units
  - Made trains faster, but casued sects to reduce all move speed by 25%. (See Sect Changes)
