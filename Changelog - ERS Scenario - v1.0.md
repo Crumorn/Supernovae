@@ -2,26 +2,26 @@
 
 # Game Setting
 ## Defaults
-- Slightly Increased starting "like" values to make AI controlled houses more likely to cooperate at the start.
-- Increased Start Year to 5056
-- Increased Likelyhood of a damaged unit to route by 50%
-- Increased Starting Interest Rate for loans from the league from 10% to 20%
-- Increased Number of turns until a loan is repaied from 10 to 15
-- Increased Percentage of Player Assets that is counted towards max loan amount, from 50% to 500%
-- Increased Amount of Money Required for the League to Declare the Third Rebupliuc, from 300k to 1.5mil
-- Increased "like" points AI gain upon receiving votes, from 5 to 10 (this is now twice what AI gets for tech)
-- Gave the Imperial Guard to the Regent
-- Made Ministry cities pay tax
-- Made Ministry units cost upkeep
+ - Slightly Increased starting "like" values to make AI controlled houses more likely to cooperate at the start.
+ - Increased Start Year to 5056
+ - Increased Likelyhood of a damaged unit to route by 50%
+ - Increased Starting Interest Rate for loans from the league from 10% to 20%
+ - Increased Number of turns until a loan is repaied from 10 to 15
+ - Increased Percentage of Player Assets that is counted towards max loan amount, from 50% to 500%
+ - Increased Amount of Money Required for the League to Declare the Third Rebupliuc, from 300k to 1.5mil
+ - Increased "like" points AI gain upon receiving votes, from 5 to 10 (this is now twice what AI gets for tech)
+ - Gave the Imperial Guard to the Regent
+ - Made Ministry cities pay tax
+ - Made Ministry units cost upkeep
 ## Movement
-- Unit Health is now factored into movepoints being regained.
-- Set the minimum move points that can be reduced to no less than 80% of the unit's move speed ( I think)
+ - Unit Health is now factored into movepoints being regained.
+ - Set the minimum move points that can be reduced to no less than 80% of the unit's move speed ( I think)
 ## Combat
-- Set max number of land combat rounds from 999 to 10
+ - Set max number of land combat rounds from 999 to 10
 ## Rebelion
-- Increased Loyalty Rebellion Threshhold from 25 to 50 for both cities and units
+ - Increased Loyalty Rebellion Threshhold from 25 to 50 for both cities and units
 ## Healing
-- Slightly Buffed medic healing, from 4 to 6. (Cities Grant 8)
+ - Slightly Buffed medic healing, from 4 to 6. (Cities Grant 8)
 ## League
  - Doubled League Prices (Hopefully)
  - Massively increased the League's "Understock Markup" from 20% to 60%
