@@ -28,7 +28,7 @@
  - Halved the Leagues Freighter and Escort Target Numbers
 
 ## Church
- - Increased the Loyalty penalty from being excomunicated from 30 to 40 
+ - Increased the Loyalty penalty from being excomunicated from 30 to 50 
 
 ## Timers
  - Speed up map scroll speed.
