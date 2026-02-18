@@ -34,7 +34,11 @@
  - Speed up map scroll speed.
 
 # Planets
- -Converted Byzantium II into a desert world
+ - Converted the following into desert worlds
+   - Byzantium II
+   - Chernobog
+ - Converted the following into barren worlds
+   - Kish
 
 # Units
  - Made trains faster, but casued sects to reduce all move speed by 25%. (See Sect Changes)
@@ -45,8 +49,8 @@
     - Giant Ant Soldiers (Built in Vau Hives)
     - Giant Worms (Built in Vau Mines)
     - Iron Vultures (Built in Symbiot Mines)
-    - Three Eyed Wolf (Built in Rebel Mines)
-    - Cannibal Band (Built in Rebel Mines)
+    - Three Eyed Wolf (Built in Rebel Hives)
+    - Cannibal Band (Built in Rebel Hives)
  - Created Weather
     - Hurricanes (Vau Faction)
     - Sandstorms (Vau Faction)
