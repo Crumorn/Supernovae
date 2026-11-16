@@ -1,6 +1,3 @@
-# WIP
-This readme is a work in progress
-
 # Actual Readme
 This is a mod for the 1997 Video Game *Emperor of the Fading Suns*, inspired by concepts from the [Nova mod](https://web.archive.org/web/20180723011811/http://website.lineone.net/~rwein/nova/nova.htm), with many of our own ideas added on top, but instead for the 2025 re-release of the game.
 
